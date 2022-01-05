@@ -31,7 +31,7 @@ def hello_world():
           </div>
     </header>
     <div>
-        <h1 style='text-align: center;'><h1>
+        <h1 style='text-align:center'></h1>
     </div>
     </body>
     </html>"""

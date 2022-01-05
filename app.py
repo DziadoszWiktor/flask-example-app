@@ -30,5 +30,8 @@ def hello_world():
             <h1 class='w3-xxlarge w3-text-white'><span class='w3-padding w3-black w3-opacity-min'><b>EX</b></span> <span class='w3-hide-small w3-text-light-grey'>Flask-App</span></h1>
           </div>
     </header>
+    <div>
+        <h1 style='text-align: center;'><h1>
+    </div>
     </body>
     </html>"""
